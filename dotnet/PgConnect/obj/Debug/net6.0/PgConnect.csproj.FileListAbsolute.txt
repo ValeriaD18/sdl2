@@ -1,0 +1,5 @@
+c:\Users\Валерия\Documents\Development_of_secure_software_systems\1\dotnet\PgConnect\obj\Debug\net6.0\PgConnect.csproj.AssemblyReference.cache
+c:\Users\Валерия\Documents\Development_of_secure_software_systems\1\dotnet\PgConnect\obj\Debug\net6.0\PgConnect.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\Валерия\Documents\Development_of_secure_software_systems\1\dotnet\PgConnect\obj\Debug\net6.0\PgConnect.AssemblyInfoInputs.cache
+c:\Users\Валерия\Documents\Development_of_secure_software_systems\1\dotnet\PgConnect\obj\Debug\net6.0\PgConnect.AssemblyInfo.cs
+c:\Users\Валерия\Documents\Development_of_secure_software_systems\1\dotnet\PgConnect\obj\Debug\net6.0\PgConnect.csproj.CoreCompileInputs.cache
