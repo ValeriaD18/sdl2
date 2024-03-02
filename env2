@@ -1,0 +1,4 @@
+DB_USER=no_user
+DB_PASSWORD=no_userpass
+INTERVAL_MINUTES=1
+LOG_FILE_PATH=log_data.log

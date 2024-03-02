@@ -1,0 +1,16 @@
+
+Успешное подключение к базе данных в 03/02/2024 09:59:00
+Версия базы данных: PostgreSQL 16.2 (Debian 16.2-1.pgdg120+2) on x86_64-pc-linux-gnu, compiled by gcc (Debian 12.2.0-14) 12.2.0, 64-bit
+Успешное подключение к базе данных в 03/02/2024 10:00:00
+Версия базы данных: PostgreSQL 16.2 (Debian 16.2-1.pgdg120+2) on x86_64-pc-linux-gnu, compiled by gcc (Debian 12.2.0-14) 12.2.0, 64-bit
+Ошибка при подключении к базе данных в 03/02/2024 10:08:33: Failed to connect to 172.25.0.4:5432
+Успешное подключение к базе данных в 03/02/2024 10:09:34
+Версия базы данных: PostgreSQL 16.2 (Debian 16.2-1.pgdg120+2) on x86_64-pc-linux-gnu, compiled by gcc (Debian 12.2.0-14) 12.2.0, 64-bit
+Успешное подключение к базе данных в 03/02/2024 10:10:34
+Версия базы данных: PostgreSQL 16.2 (Debian 16.2-1.pgdg120+2) on x86_64-pc-linux-gnu, compiled by gcc (Debian 12.2.0-14) 12.2.0, 64-bit
+Ошибка при подключении к базе данных в 03/02/2024 10:11:34: 57P01: закрытие подключения по команде администратора
+Ошибка при подключении к базе данных в 03/02/2024 10:12:42: Resource temporarily unavailable
+Ошибка при подключении к базе данных в 03/02/2024 10:13:50: Resource temporarily unavailable
+Ошибка при подключении к базе данных в 03/02/2024 10:14:58: Resource temporarily unavailable
+Ошибка при подключении к базе данных в 03/02/2024 10:16:06: Resource temporarily unavailable
+Ошибка при подключении к базе данных в 03/02/2024 10:17:14: Resource temporarily unavailable
